@@ -1,0 +1,68 @@
+# iutubber
+.tmp/
+downloads/
+logs/
+prova/
+
+*copy.py
+*prova.py
+*.bak
+*.mp4
+*.mp3
+*.wav
+*.jpg
+
+# build artifacts
+
+.eggs/
+.mypy_cache
+*.egg-info/
+build/
+dist/
+pip-wheel-metadata/
+
+
+# dev tools
+
+.envrc
+.python-version
+.idea
+.venv/
+.vscode/
+/*.iml
+node_modules/
+*.sqlite3
+
+
+
+# jupyter notebooks
+
+.ipynb_checkpoints
+
+
+# miscellaneous
+
+.cache/
+doc/_build/
+*.swp
+.DS_Store
+.tmp/
+
+
+# python
+
+*.pyc
+*.pyo
+__pycache__
+
+
+# testing and continuous integration
+
+.coverage
+.pytest_cache/
+.benchmarks
+
+# documentation build artifacts
+
+docs/build
+site/
